@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Hooks**
 
-- 💬 Ask me about **Spring Boot, JSP, React**
+- 💬 Ask me about **Spring Boot, JSP and React**
 
 - 📫 How to reach me **acharyapreethika07@gmail.com**
 
