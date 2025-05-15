@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices with Spring Boot, Docker, and Kubernetes**
 
-- 💬 Ask me about **Spring Boot, JSP and React**
+- 💬 Ask me about **Java and Spring Boot**
 
 - 📫 How to reach me **acharyapreethika07@gmail.com**
 
