@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelpreethika&label=Profile%20views&color=0e75b6&style=flat" alt="pixelpreethika" /> </p>
 
-- 🌱 I’m currently learning **React-Hooks**
+- 🌱 I’m currently learning **Microservices with Spring Boot, Docker, and Kubernetes**
 
 - 💬 Ask me about **Spring Boot, JSP and React**
 
